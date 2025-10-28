@@ -4,5 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
 dependencies = [
+    "ccxt>=4.5.10",
     "dlt>=1.17.1",
+    "loguru>=0.7.3",
 ]
