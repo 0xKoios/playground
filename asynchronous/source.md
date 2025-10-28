@@ -1,0 +1,1 @@
+# [Asynchronous IO คืออะไร? และตัวอย่างการใช้ asyncio ใน Python](https://nopnithi.medium.com/python-asynchronous-i-o-คืออะไร-และตัวอย่างการใช้-asyncio-เบื้องต้น-93d523211427)
