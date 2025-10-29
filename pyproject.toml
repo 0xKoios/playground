@@ -7,4 +7,5 @@ dependencies = [
     "ccxt>=4.5.10",
     "dlt>=1.17.1",
     "loguru>=0.7.3",
+    "pre-commit>=4.3.0",
 ]
