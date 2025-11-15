@@ -4,8 +4,11 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
 dependencies = [
+    "beautifulsoup4>=4.14.2",
     "ccxt>=4.5.10",
     "dlt>=1.17.1",
+    "jupyterlab>=4.4.10",
     "loguru>=0.7.3",
+    "matplotlib>=3.10.7",
     "pre-commit>=4.3.0",
 ]
